@@ -1,0 +1,1 @@
+python exp_1.py a5a.train a5a.test

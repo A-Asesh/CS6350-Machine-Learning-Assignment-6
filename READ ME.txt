@@ -1,0 +1,5 @@
+The code was run on CADE Machine 1-7
+To run the code follow the given instructions:
+4.4 - Program exp_1.py
+Please run exp_1.sh for Test on Train
+run exp_11.sh for Test on Test
